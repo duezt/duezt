@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**duezt/duezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the GitHub profile of **duezt**.
 
-Here are some ideas to get you started:
+### About Me
+- Username: `duezt`
+- Passionate about technology and learning new stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- 🔭 Work on personal projects and experiments
+- 🌱 Learn new programming languages and frameworks
+
+### Contact
+- GitHub: https://github.com/duezt
+
+> Thanks for visiting — feel free to connect!
